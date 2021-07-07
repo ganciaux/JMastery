@@ -10,4 +10,5 @@ npm install body-parser cors express mongoose nodemon
 package.json:
 "type":"module" = new syntaxe
 
+http code:
 restapitutorial.com/httpstatuscodes
