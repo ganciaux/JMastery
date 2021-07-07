@@ -1,6 +1,7 @@
 client:
 npx create-react-app ./
 npm install axios moment react-file-base64 redux redux-thunk
+npm install @material-ui/core
 
 server:
 npm init -y
@@ -8,3 +9,5 @@ npm install body-parser cors express mongoose nodemon
 
 package.json:
 "type":"module" = new syntaxe
+
+restapitutorial.com/httpstatuscodes
